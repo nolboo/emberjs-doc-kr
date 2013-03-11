@@ -112,7 +112,7 @@ Ember는 Handlebar, 시맨틱 템플릿 라이브러리를 이용하고있다. J
 요구에 따른 여러가지 최초의 Ember.js 어플리 작성방법이 있다.
 
 만약 요구가 단순하거나 혹은 단지 Ember.js를 사용해보고 싶은 것 뿐이라면, Ember.js의 스타터 키트를 다운로드하기 바란다.
-스타터 키트는 [HTML5 Boilerplate (http://html5boilerplate.com/)를 기반으로 하고 있다. 빌드 도구 및 기타 도구는 필요 없다. 스타터 키트를 다운로드하고 압축해제하는 것만으로 된다. Handlebars 템플릿을 편집 할 경우`index.html`에서 하고 Ember.js 어플 자체는`javascripts/app.js`에 들어있다.
+스타터 키트는 [HTML5 Boilerplate ( http://html5boilerplate.com/ )를 기반으로 하고 있다. 빌드 도구 및 기타 도구는 필요 없다. 스타터 키트를 다운로드하고 압축해제하는 것만으로 된다. Handlebars 템플릿을 편집 할 경우`index.html`에서 하고 Ember.js 어플 자체는`javascripts/app.js`에 들어있다.
 
 보다 큰 애플리케이션의 경우는 Ruby on Rails의 이용을 고려하기 바란다. Rails는 소스 ​​코드 및 기타 asset을 관리하는 데 도움을 줄 뿐만 아니라 REST API도 제공하고 있다.
 
@@ -414,7 +414,7 @@ todo내의`isDone`속성을 변경하면`remianing`속성은 자동으로 업데
 
 ### Handolebars
 
-Ember에는 시맨틱 템플릿 언어인 [Handlebars (http://handlebarsjs.com/)가 번들되어있다. 이 템플릿은 일반 HTML에 표현식이 포함 된 것과 같은 모양이된다.
+Ember에는 시맨틱 템플릿 언어인 [Handlebars ( http://handlebarsjs.com/ )가 번들되어있다. 이 템플릿은 일반 HTML에 표현식이 포함 된 것과 같은 모양이된다.
 
 Handlebars 템플릿은 애플리케이션내의 HTML 파일에 저장해야 하며, 런타임에 Ember는 템플릿을 컴파일하고 view내에서 사용할 수 있도록한다.
 
